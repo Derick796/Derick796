@@ -15,6 +15,8 @@
 ## BestKind BBQ website
 
 
+
+
 https://github.com/Derick796/Derick796/assets/72665836/b2cd8a55-53ef-4552-ab51-06f3a63515d4 
 
 ## GuitLessons
@@ -23,6 +25,12 @@ https://github.com/Derick796/Derick796/assets/72665836/b2cd8a55-53ef-4552-ab51-0
 
 
 https://github.com/Derick796/Derick796/assets/72665836/d8f1f4cb-cf78-4996-93fc-54b4d8e243f4
+
+## The first guitar lesson page
+
+
+https://github.com/Derick796/Derick796/assets/72665836/25d11cce-9749-44ca-8911-b275ed8e8f86
+
 
 
 
