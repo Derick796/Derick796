@@ -1,21 +1,21 @@
 ### Derick Daftari
 
-<h1 align="center">Hi ðŸ‘‹, I'm Derick Daftari</h1>
+<h1 align="center">Hi, I'm Derick Daftari</h1>
 <h3 align="center">A webdeveloper based in St John's NL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derick796&label=Profile%20views&color=0e75b6&style=flat" alt="derick796" /> </p>
 
-- ðŸ”­ Iâ€™m currently working on **BESTKIND BBQ WEBSITE**
+- I'm currently working on **BESTKIND BBQ WEBSITE**
 
-- ðŸŒ± Iâ€™m currently learning **React and Js**
+- I'm currently learning **React and Js**
 
-- ðŸ‘¯ Iâ€™m currently working on **GUITLESSONS WEBSITE**
+- I'm currently working on **GUITLESSONS WEBSITE**
 
-- ðŸ’¬ Ask me about **React, CSS**
+- Ask me about **React, CSS**
 
-- ðŸ“« How to reach me **derickkwame3@gmail.com**
+- How to reach me **derickkwame3@gmail.com**
 
-- âš¡ Fun fact **I play guitar and bass professionally**
+- Fun fact **I play guitar and bass professionally**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
